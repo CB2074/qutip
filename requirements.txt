@@ -1,0 +1,4 @@
+qutip>=5,<6
+numpy>=1.26
+matplotlib>=3.8
+jupyterlab>=4
