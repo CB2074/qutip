@@ -1,0 +1,903 @@
+{
+  "source": "QuTiP official tutorial download site",
+  "base_url": "https://qutip.org/qutip-tutorials/tutorials-v5/",
+  "download_date": "2026-08-12",
+  "notebook_count": 109,
+  "notebooks": [
+    {
+      "path": "euroscipy2026/01_Qubits.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/euroscipy2026/01_Qubits.ipynb",
+      "bytes": 257661,
+      "sha256": "732b4e1660b92f2396e831017a9b187d70810e17149ba7dd4e4b903aa51cb6b9",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15
+    },
+    {
+      "path": "euroscipy2026/02_Teleportation.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/euroscipy2026/02_Teleportation.ipynb",
+      "bytes": 452486,
+      "sha256": "9b4fbe2c2e0f1c742cc61c7b962e1d76e47aa8052138a9e24ccfce983dafcf2b",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15
+    },
+    {
+      "path": "heom/heom-1a-spin-bath-model-basic.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-1a-spin-bath-model-basic.ipynb",
+      "bytes": 2834012,
+      "sha256": "b9c7f8646ca32ffeb14831c006ad3e64bce8090a210126bf0e8b7e8626872cc5",
+      "content_type": "application/x-ipynb+json",
+      "cells": 80
+    },
+    {
+      "path": "heom/heom-1b-spin-bath-model-very-strong-coupling.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-1b-spin-bath-model-very-strong-coupling.ipynb",
+      "bytes": 930271,
+      "sha256": "943e30c3cb2c49d19ad4edf1c885fff72a87a51a65823b23a6425ebada568136",
+      "content_type": "application/x-ipynb+json",
+      "cells": 40
+    },
+    {
+      "path": "heom/heom-1c-spin-bath-model-underdamped-sd.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-1c-spin-bath-model-underdamped-sd.ipynb",
+      "bytes": 951525,
+      "sha256": "faf1612a6335a29fb291183cdc53413670a214050fbc219e8e5f6399159f6686",
+      "content_type": "application/x-ipynb+json",
+      "cells": 47
+    },
+    {
+      "path": "heom/heom-1d-spin-bath-model-ohmic-fitting.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-1d-spin-bath-model-ohmic-fitting.ipynb",
+      "bytes": 653292,
+      "sha256": "e1cdfd581d48062a2e1af960821c8674d1929047951afb8ed3ba5a59a0e12ccd",
+      "content_type": "application/x-ipynb+json",
+      "cells": 81
+    },
+    {
+      "path": "heom/heom-1e-spin-bath-model-pure-dephasing.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-1e-spin-bath-model-pure-dephasing.ipynb",
+      "bytes": 938082,
+      "sha256": "388e59d75a3258b69492964b926f61851fc26096a01b1e26f60e9af30ddc0b93",
+      "content_type": "application/x-ipynb+json",
+      "cells": 43
+    },
+    {
+      "path": "heom/heom-2-fmo-example.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-2-fmo-example.ipynb",
+      "bytes": 776424,
+      "sha256": "c9bc01c0af379e83680358e6c49f44cc94cd93e29f12bfb3fa7c4a479d4352be",
+      "content_type": "application/x-ipynb+json",
+      "cells": 36
+    },
+    {
+      "path": "heom/heom-3-quantum-heat-transport.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-3-quantum-heat-transport.ipynb",
+      "bytes": 283590,
+      "sha256": "e5824fed1d3a1ef4a99aae26ed26230fb00016790d5e27cbec7762511ab4d74c",
+      "content_type": "application/x-ipynb+json",
+      "cells": 30
+    },
+    {
+      "path": "heom/heom-4-dynamical-decoupling.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-4-dynamical-decoupling.ipynb",
+      "bytes": 1215659,
+      "sha256": "3888ea8941389a065ed8afb707c1809412d267daba3b1c16c205f9fb130b6701",
+      "content_type": "application/x-ipynb+json",
+      "cells": 36
+    },
+    {
+      "path": "heom/heom-5a-fermions-single-impurity-model.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-5a-fermions-single-impurity-model.ipynb",
+      "bytes": 682723,
+      "sha256": "0e087245df630d97e260efd9e7055c63c187d07f55e85a672e8bc3b439b90763",
+      "content_type": "application/x-ipynb+json",
+      "cells": 41
+    },
+    {
+      "path": "heom/heom-5b-fermions-discrete-boson-model.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-5b-fermions-discrete-boson-model.ipynb",
+      "bytes": 131730,
+      "sha256": "f7ae848940fdbe584434e8e1afa1986059a90a2c38eed2f978a041a361c0098d",
+      "content_type": "application/x-ipynb+json",
+      "cells": 21
+    },
+    {
+      "path": "heom/heom-index.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/heom/heom-index.ipynb",
+      "bytes": 2736,
+      "sha256": "ab4c2f527f70f3e1ac08455af4f4d1b714ca42e4f6d93638d7dcfd5045a7b882",
+      "content_type": "application/x-ipynb+json",
+      "cells": 1
+    },
+    {
+      "path": "lectures/Lecture-0-Introduction-to-QuTiP.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-0-Introduction-to-QuTiP.ipynb",
+      "bytes": 8688336,
+      "sha256": "d48232cafe45237dbc4e5b7d4b6406cc036607eef462efee5e98ae6a17dfb08e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 96
+    },
+    {
+      "path": "lectures/Lecture-1-Jaynes-Cumming-model.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-1-Jaynes-Cumming-model.ipynb",
+      "bytes": 5289700,
+      "sha256": "6c3b2db76cffc4985197ecf7e6f424d1f1f43c5dc8286c6c4b0408910d827e47",
+      "content_type": "application/x-ipynb+json",
+      "cells": 32
+    },
+    {
+      "path": "lectures/Lecture-10-cQED-dispersive-regime.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-10-cQED-dispersive-regime.ipynb",
+      "bytes": 425813,
+      "sha256": "585fa25447c4857e03f6255185e876318cc34d31fcecb2b95f93cb14ed63052d",
+      "content_type": "application/x-ipynb+json",
+      "cells": 46
+    },
+    {
+      "path": "lectures/Lecture-11-Charge-Qubits.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-11-Charge-Qubits.ipynb",
+      "bytes": 836100,
+      "sha256": "a031c7e9f2d58aa60dbd441c221fde1bbad1ccdbd71fa4d05792fe2a9ff8fefc",
+      "content_type": "application/x-ipynb+json",
+      "cells": 75
+    },
+    {
+      "path": "lectures/Lecture-12-Decay-into-a-squeezed-vacuum-field.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-12-Decay-into-a-squeezed-vacuum-field.ipynb",
+      "bytes": 975582,
+      "sha256": "c8bc56531e9395b613b16160db1743cf6cc8872163f9de1698b52d3165ad43fd",
+      "content_type": "application/x-ipynb+json",
+      "cells": 46
+    },
+    {
+      "path": "lectures/Lecture-13-Resonance-flourescence.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-13-Resonance-flourescence.ipynb",
+      "bytes": 341071,
+      "sha256": "13c480b8d3ec6edb786dec2a9a47a1659b0bd5e706f04007c764dab7d6d49cf3",
+      "content_type": "application/x-ipynb+json",
+      "cells": 18
+    },
+    {
+      "path": "lectures/Lecture-14-Kerr-nonlinearities.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-14-Kerr-nonlinearities.ipynb",
+      "bytes": 521493,
+      "sha256": "1d539163c5cca3917bce4384805e8f2e4ec4b7f10e77c18bef7769d46fac075e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 32
+    },
+    {
+      "path": "lectures/Lecture-15-Nonclassically-driven-atoms.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-15-Nonclassically-driven-atoms.ipynb",
+      "bytes": 315007,
+      "sha256": "fed173f43bc4b6ee4555f0c3792904ac08c897e605e9c50946b54882033fc40a",
+      "content_type": "application/x-ipynb+json",
+      "cells": 41
+    },
+    {
+      "path": "lectures/Lecture-16-Gallery-of-Wigner-functions.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-16-Gallery-of-Wigner-functions.ipynb",
+      "bytes": 5073631,
+      "sha256": "908201a3a4ec24a29a4422495effd2cb16ba7c422bd4f4b001fb3809728fdfc0",
+      "content_type": "application/x-ipynb+json",
+      "cells": 38
+    },
+    {
+      "path": "lectures/Lecture-2A-Cavity-Qubit-Gates.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-2A-Cavity-Qubit-Gates.ipynb",
+      "bytes": 644791,
+      "sha256": "42f539d8cefe41268b5d941ed18fe6a5f03a2ad88a42a7c3d7dc0ab47a3220c6",
+      "content_type": "application/x-ipynb+json",
+      "cells": 76
+    },
+    {
+      "path": "lectures/Lecture-2B-Single-Atom-Lasing.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-2B-Single-Atom-Lasing.ipynb",
+      "bytes": 583629,
+      "sha256": "e3e8ade3a7e2cf743e30316d9b1d58ace37ba506699c082d5135f73cddbe7c2f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 39
+    },
+    {
+      "path": "lectures/Lecture-3A-Dicke-model.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-3A-Dicke-model.ipynb",
+      "bytes": 666366,
+      "sha256": "321baa8aaa001bf02da1860c5467fd3fddd6de121ba3c4b6d8c7b2126021695d",
+      "content_type": "application/x-ipynb+json",
+      "cells": 36
+    },
+    {
+      "path": "lectures/Lecture-3B-Jaynes-Cumming-model-with-ultrastrong-coupling.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-3B-Jaynes-Cumming-model-with-ultrastrong-coupling.ipynb",
+      "bytes": 579879,
+      "sha256": "2f82c82a3aacd9c5522634241bbb2958fdf5aee6a33dbdaeb8376c6ade34ac19",
+      "content_type": "application/x-ipynb+json",
+      "cells": 39
+    },
+    {
+      "path": "lectures/Lecture-4-Correlation-Functions.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-4-Correlation-Functions.ipynb",
+      "bytes": 363313,
+      "sha256": "e7a318ae3412989d45221b2abbb3388c76d5d8f82e6943a1104b108448cc8aef",
+      "content_type": "application/x-ipynb+json",
+      "cells": 25
+    },
+    {
+      "path": "lectures/Lecture-5-Parametric-Amplifier.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-5-Parametric-Amplifier.ipynb",
+      "bytes": 532245,
+      "sha256": "da1c1526ad7d5a104f77a3f1c1eed75dcac88056eb25c1287a84c3c08a65daaf",
+      "content_type": "application/x-ipynb+json",
+      "cells": 41
+    },
+    {
+      "path": "lectures/Lecture-6-Quantum-Monte-Carlo-Trajectories.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-6-Quantum-Monte-Carlo-Trajectories.ipynb",
+      "bytes": 137616,
+      "sha256": "306a0f6cafd8eb8ec8ab4e925128ffd1b79ed535eafca43c0299d1d290ff070e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 21
+    },
+    {
+      "path": "lectures/Lecture-7-iSWAP-gate.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-7-iSWAP-gate.ipynb",
+      "bytes": 386257,
+      "sha256": "37080d43ce8afecc9af2cdcaf88401e31d0071c48a5de2e722591b7c38617a17",
+      "content_type": "application/x-ipynb+json",
+      "cells": 22
+    },
+    {
+      "path": "lectures/Lecture-8-Adiabatic-quantum-computing.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-8-Adiabatic-quantum-computing.ipynb",
+      "bytes": 155481,
+      "sha256": "ff3a1abde1385ba520783fe57f79c01d04481ab5f9fc190858847ffe685f95a7",
+      "content_type": "application/x-ipynb+json",
+      "cells": 18
+    },
+    {
+      "path": "lectures/Lecture-9-Squeezed-states-of-harmonic-oscillator.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/lectures/Lecture-9-Squeezed-states-of-harmonic-oscillator.ipynb",
+      "bytes": 377523,
+      "sha256": "515987d02ae6bfa0ef5218823f22a89f2f85a79199a26494996bc1247c2c2744",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31
+    },
+    {
+      "path": "miscellaneous/JAX_backend.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/JAX_backend.ipynb",
+      "bytes": 13060,
+      "sha256": "4701cb5c31420f4391bab82de3399e56387bf4a4051835042de49ac7caca9e3c",
+      "content_type": "application/x-ipynb+json",
+      "cells": 12
+    },
+    {
+      "path": "miscellaneous/JCHM-tutorial.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/JCHM-tutorial.ipynb",
+      "bytes": 769486,
+      "sha256": "27d350a7bc33556c7b8264192b82f01485357381ad8edabca777eb4994221a46",
+      "content_type": "application/x-ipynb+json",
+      "cells": 24
+    },
+    {
+      "path": "miscellaneous/cuQuantum_backend.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/cuQuantum_backend.ipynb",
+      "bytes": 147165,
+      "sha256": "67a4fb11c289e2c6eac82155ed00b0c9395a25a9ff065fa3133e9b3355c7efc4",
+      "content_type": "application/x-ipynb+json",
+      "cells": 26
+    },
+    {
+      "path": "miscellaneous/excitation-number-restricted-states-jc-chain.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/excitation-number-restricted-states-jc-chain.ipynb",
+      "bytes": 250488,
+      "sha256": "77817acee21ae05d92f7bb41a79f9335b27c009c190caf862bff17b496e3be7f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31
+    },
+    {
+      "path": "miscellaneous/single-photon-interference.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/single-photon-interference.ipynb",
+      "bytes": 360608,
+      "sha256": "df3e07fc5e48e1ed80a3a69ed6e78eeb687e0b2b1412dd8f9ae81366b7dec9a5",
+      "content_type": "application/x-ipynb+json",
+      "cells": 49
+    },
+    {
+      "path": "miscellaneous/v5_paper-jax.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/v5_paper-jax.ipynb",
+      "bytes": 100447,
+      "sha256": "28cb0bb76ab76bdb2ca458684448bb60e254f8d38b078f5563d4c4d825d962ce",
+      "content_type": "application/x-ipynb+json",
+      "cells": 30
+    },
+    {
+      "path": "miscellaneous/v5_paper-optimal-control.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/miscellaneous/v5_paper-optimal-control.ipynb",
+      "bytes": 127083,
+      "sha256": "b1903ba61da5a907968383347e3058e304a780220f8ebb84b50484f3d0874d7e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 30
+    },
+    {
+      "path": "optimal-control/01-optimal-control-overview.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/01-optimal-control-overview.ipynb",
+      "bytes": 21783,
+      "sha256": "2eaab0815db634759728c697a0ecfe72632bc87d029650c08b7131add4118275",
+      "content_type": "application/x-ipynb+json",
+      "cells": 9
+    },
+    {
+      "path": "optimal-control/02-cpo-GRAPE-Hadamard.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/02-cpo-GRAPE-Hadamard.ipynb",
+      "bytes": 45956,
+      "sha256": "8144d7d95b7fdea42ac2477e15724a435db78f48de1a816f35c2f284b23c2d4a",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31
+    },
+    {
+      "path": "optimal-control/03-cpo-GRAPE-QFT.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/03-cpo-GRAPE-QFT.ipynb",
+      "bytes": 126524,
+      "sha256": "2d3c0e6f0ef93a40e31639f4e1962b31e043ec9b56750bedd18d96632ac58158",
+      "content_type": "application/x-ipynb+json",
+      "cells": 28
+    },
+    {
+      "path": "optimal-control/04-cpo-GRAPE-Lindbladian.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/04-cpo-GRAPE-Lindbladian.ipynb",
+      "bytes": 53130,
+      "sha256": "0845b78db5a0fd0b97609d4955f12abbae41900086f3b40b56a299a8a11d485f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 23
+    },
+    {
+      "path": "optimal-control/05-cpo-cpo-symplectic.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/05-cpo-cpo-symplectic.ipynb",
+      "bytes": 58035,
+      "sha256": "8ef5cf3d965de6ac37a829c7deede60bddfc7e73703a1b2b405d42fe974df305",
+      "content_type": "application/x-ipynb+json",
+      "cells": 24
+    },
+    {
+      "path": "optimal-control/06-CRAB-2qubit-state_to_state.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/06-CRAB-2qubit-state_to_state.ipynb",
+      "bytes": 54620,
+      "sha256": "ddcb08c6a2eeca3f9b0fcc834ef3eddc0284e839a5d2cafcd4c0e2f32a5ad085",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31
+    },
+    {
+      "path": "optimal-control/07-CRAB-QFT.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/07-CRAB-QFT.ipynb",
+      "bytes": 64101,
+      "sha256": "095d10bc15852c3067c474584ee74587e873d43e7bf044ddb52777121f44c4ae",
+      "content_type": "application/x-ipynb+json",
+      "cells": 26
+    },
+    {
+      "path": "optimal-control/08-cpo-GRAPE-cnot.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/optimal-control/08-cpo-GRAPE-cnot.ipynb",
+      "bytes": 1132511,
+      "sha256": "f904e4d670476a6b2156a150e6d294d0f7f35bcd65e7ab3f2045377e07792618",
+      "content_type": "application/x-ipynb+json",
+      "cells": 32
+    },
+    {
+      "path": "piqs/piqs-boundary-time-crystals.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-boundary-time-crystals.ipynb",
+      "bytes": 306487,
+      "sha256": "db61de5d3988defe470d6184781fd3721d6445cc46deb70745fb58a35bc459bc",
+      "content_type": "application/x-ipynb+json",
+      "cells": 29,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-entropy_purity.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-entropy_purity.ipynb",
+      "bytes": 157454,
+      "sha256": "f0650d0b7290e298052b510129b6422f9f019cce4e6c89a618c8c06d9ddebd1f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 32,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-multiple-spin-ensembles.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-multiple-spin-ensembles.ipynb",
+      "bytes": 108652,
+      "sha256": "69a328e36f0a52030acc4219c8ae0e587acc298786d6a48409783cbb492bfb35",
+      "content_type": "application/x-ipynb+json",
+      "cells": 26,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-open-dicke-model.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-open-dicke-model.ipynb",
+      "bytes": 77142,
+      "sha256": "d1a074b4f37deb86e19f596d5027bb312218bd27de425ac69fd268d3650647e0",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-overview.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-overview.ipynb",
+      "bytes": 1374460,
+      "sha256": "03f683856db5d4b4802e5bd56cff0fb5c23d1efc99d77ce5697fb8cef96cdca8",
+      "content_type": "application/x-ipynb+json",
+      "cells": 55,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-spin-squeezing-noise.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-spin-squeezing-noise.ipynb",
+      "bytes": 175096,
+      "sha256": "f2d941cafd9d5dce21c99d90b5704de7dd677f6ac76f20d2c9b0a362c960a897",
+      "content_type": "application/x-ipynb+json",
+      "cells": 17,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-steadystate-superradiance.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-steadystate-superradiance.ipynb",
+      "bytes": 189704,
+      "sha256": "81615733e17d7c7f0478d1622c29d6617a07a4c698c9749ebbc5a9a4a8b60f28",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "piqs/piqs-superradiant-light-emission.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/piqs-superradiant-light-emission.ipynb",
+      "bytes": 80662,
+      "sha256": "65a7d1244e1658c8c1995b8e82a3a792c5325b79b68baa8675cda0749442e1dd",
+      "content_type": "application/x-ipynb+json",
+      "cells": 11,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-10-qubit-QFT-algorithm.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-10-qubit-QFT-algorithm.ipynb",
+      "bytes": 138298,
+      "sha256": "acfd2c0eddef2b9afb443a30d55634d4545abe396e019bb01a08a87ad2c67641",
+      "content_type": "application/x-ipynb+json",
+      "cells": 5
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-customize-device.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-customize-device.ipynb",
+      "bytes": 207663,
+      "sha256": "8b84c8d4530a7da5cde0a6a2cfd7d38cf5b1f6294e2563e87e71de8f038b737e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 49
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-optpulseprocessor.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-optpulseprocessor.ipynb",
+      "bytes": 212905,
+      "sha256": "5a80079cbe9336fc79f83b5ba55f6f4397be8e9819193473bb296e5298f26ad8",
+      "content_type": "application/x-ipynb+json",
+      "cells": 27
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-processor-DJ-algorithm.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-processor-DJ-algorithm.ipynb",
+      "bytes": 215025,
+      "sha256": "67fed3fd98044fcca2cf854399ed1ba5c0a3d23cababd0e334a8b13a29dcd780",
+      "content_type": "application/x-ipynb+json",
+      "cells": 34
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-randomized-benchmarking.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-randomized-benchmarking.ipynb",
+      "bytes": 56857,
+      "sha256": "5b9309d78fefd5932d419b1718db5ffc3328b464e3503352fd664035eb43b9d6",
+      "content_type": "application/x-ipynb+json",
+      "cells": 12
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-relaxation-measurement-with-the-idling-gate.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-relaxation-measurement-with-the-idling-gate.ipynb",
+      "bytes": 56816,
+      "sha256": "66c24cec364f9988cc9a99464ef851d424e335da04ed701dbe0ace050fefb400",
+      "content_type": "application/x-ipynb+json",
+      "cells": 4
+    },
+    {
+      "path": "pulse-level-circuit-simulation/qip-scheduler.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/pulse-level-circuit-simulation/qip-scheduler.ipynb",
+      "bytes": 84558,
+      "sha256": "f55d9254bc43756c93d7b5a6fc22143d47c6be3fceb9f40c6cb5db81bd57293f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 22
+    },
+    {
+      "path": "python-introduction/001_Beginning_Python.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/python-introduction/001_Beginning_Python.ipynb",
+      "bytes": 113868,
+      "sha256": "60605cb9d946396da3c96840361decea193ed70d1d7cc534b5e8feca44ef8dfe",
+      "content_type": "application/x-ipynb+json",
+      "cells": 145
+    },
+    {
+      "path": "python-introduction/002_NumPy_Array_Basics.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/python-introduction/002_NumPy_Array_Basics.ipynb",
+      "bytes": 34584,
+      "sha256": "dc6cfde7a3a7850ea77a1c7d9f6128795347fc070015e25cb3e3409a66df1e04",
+      "content_type": "application/x-ipynb+json",
+      "cells": 75
+    },
+    {
+      "path": "python-introduction/003_Matplotlib_Plotting.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/python-introduction/003_Matplotlib_Plotting.ipynb",
+      "bytes": 747688,
+      "sha256": "f44d775a9b81828863018a53212ad0a154de4750b4afcddb956d05549e1ab923",
+      "content_type": "application/x-ipynb+json",
+      "cells": 35
+    },
+    {
+      "path": "python-introduction/004_link_to_lecture_0.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/python-introduction/004_link_to_lecture_0.ipynb",
+      "bytes": 8688333,
+      "sha256": "e48ce6570677701973d6527c7f2bb5533f181ec0830d11e7851bbdcbf4fce9e8",
+      "content_type": "application/x-ipynb+json",
+      "cells": 96
+    },
+    {
+      "path": "quantum-circuits/matrenderer-plot.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/matrenderer-plot.ipynb",
+      "bytes": 388900,
+      "sha256": "b82a42e9449b9f2663471f9c5f11ac6db84961a9714211e138803ee5b90c28ec",
+      "content_type": "application/x-ipynb+json",
+      "cells": 40
+    },
+    {
+      "path": "quantum-circuits/qasm.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/qasm.ipynb",
+      "bytes": 19199,
+      "sha256": "a9b4df869f11804cc5b5338025a7433f90838d77014edb952fd4b57479fb98e4",
+      "content_type": "application/x-ipynb+json",
+      "cells": 27
+    },
+    {
+      "path": "quantum-circuits/qip-toffoli-cnot.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/qip-toffoli-cnot.ipynb",
+      "bytes": 80802,
+      "sha256": "5f52601084a5ca9bd2d2e90747eefee7c76f2567042ff17059d539e9ce1ddc94",
+      "content_type": "application/x-ipynb+json",
+      "cells": 13
+    },
+    {
+      "path": "quantum-circuits/quantum-gates.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/quantum-gates.ipynb",
+      "bytes": 461387,
+      "sha256": "b250da3e128d0ad7e23bd55816aca64142ce70b63db359e729b0d8e73c3e2b98",
+      "content_type": "application/x-ipynb+json",
+      "cells": 102
+    },
+    {
+      "path": "quantum-circuits/teleportation.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/teleportation.ipynb",
+      "bytes": 55469,
+      "sha256": "484d9478c245387d46c623a9c1a6dcbc227682d751669433dd6a7500f7f8ecfc",
+      "content_type": "application/x-ipynb+json",
+      "cells": 28
+    },
+    {
+      "path": "quantum-circuits/textrenderer-plot.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/textrenderer-plot.ipynb",
+      "bytes": 16956,
+      "sha256": "11cfa8213a8bace0a289322fe00d9c88a4a42b2cf4348460298dd073f80e6ad1",
+      "content_type": "application/x-ipynb+json",
+      "cells": 21
+    },
+    {
+      "path": "quantum-circuits/v5_paper-qip2.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/quantum-circuits/v5_paper-qip2.ipynb",
+      "bytes": 736893,
+      "sha256": "61ec9973be6a607ebe72ec66eab51a5781ccc34aac5d0f3b976e898ca68b9aa3",
+      "content_type": "application/x-ipynb+json",
+      "cells": 38
+    },
+    {
+      "path": "time-evolution/001_qobjevo.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/001_qobjevo.ipynb",
+      "bytes": 45562,
+      "sha256": "a1ec4bd38e525291e3320d7e34badd0437b2038829a6cc7a47073a0a3d163d58",
+      "content_type": "application/x-ipynb+json",
+      "cells": 45
+    },
+    {
+      "path": "time-evolution/002_larmor-precession.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/002_larmor-precession.ipynb",
+      "bytes": 758815,
+      "sha256": "72a3eeed7874b693b30a4ff2efe720ca0b93b277b43bc8b85a0b4286cb5272a6",
+      "content_type": "application/x-ipynb+json",
+      "cells": 20
+    },
+    {
+      "path": "time-evolution/003_qubit-dynamics.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/003_qubit-dynamics.ipynb",
+      "bytes": 963496,
+      "sha256": "62a9bed322be3c57a85a3f2233f36540a6cd3226ff032ce2981a255937f81726",
+      "content_type": "application/x-ipynb+json",
+      "cells": 22
+    },
+    {
+      "path": "time-evolution/004_rabi-oscillations.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/004_rabi-oscillations.ipynb",
+      "bytes": 153139,
+      "sha256": "9c391e9cb229a27b97e3c31cfa561419809c448e63a8f72a5983bf05c8d5a5ea",
+      "content_type": "application/x-ipynb+json",
+      "cells": 20
+    },
+    {
+      "path": "time-evolution/005_spin-chain.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/005_spin-chain.ipynb",
+      "bytes": 141016,
+      "sha256": "eecff9738b2c6688b7e92d046b7940a1ff10856bcca2c5e931ef0e1807ff8d41",
+      "content_type": "application/x-ipynb+json",
+      "cells": 17
+    },
+    {
+      "path": "time-evolution/006_photon_birth_death.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/006_photon_birth_death.ipynb",
+      "bytes": 81658,
+      "sha256": "e9afba8376223a93b35212fb6d422eadf811e14aa39d842eb5d74c8e69fdc944",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15
+    },
+    {
+      "path": "time-evolution/007_brmesolve_tls.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/007_brmesolve_tls.ipynb",
+      "bytes": 1750596,
+      "sha256": "d1be8a7e73e78ab8adcbd649edd9f47fb5e09980a0f5c3cb266a1705bd873afc",
+      "content_type": "application/x-ipynb+json",
+      "cells": 25
+    },
+    {
+      "path": "time-evolution/008_brmesolve_time_dependence.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/008_brmesolve_time_dependence.ipynb",
+      "bytes": 105832,
+      "sha256": "b97ed88bb482fb1e2a7da91e13018590c8dc484f9d5d73f9e8f507bf059c1920",
+      "content_type": "application/x-ipynb+json",
+      "cells": 17
+    },
+    {
+      "path": "time-evolution/009_brmesolve-cavity-QED.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/009_brmesolve-cavity-QED.ipynb",
+      "bytes": 397965,
+      "sha256": "9c5a4dc5399ca526c4505fa0b5b414068d15ea1da63c5a9d30510589cac232e2",
+      "content_type": "application/x-ipynb+json",
+      "cells": 20
+    },
+    {
+      "path": "time-evolution/010_brmesolve_phonon_interaction.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/010_brmesolve_phonon_interaction.ipynb",
+      "bytes": 270624,
+      "sha256": "02847e4260fa882209d061ec463f644fa4622935f6ced6d616935b57392de27e",
+      "content_type": "application/x-ipynb+json",
+      "cells": 19
+    },
+    {
+      "path": "time-evolution/011_floquet_solver.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/011_floquet_solver.ipynb",
+      "bytes": 78934,
+      "sha256": "dfdb7bb00e7a95b2dbaed8221af511a2bb9fa54d73804b79c6262442242f5d5b",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15
+    },
+    {
+      "path": "time-evolution/012_floquet_formalism.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/012_floquet_formalism.ipynb",
+      "bytes": 170522,
+      "sha256": "ab9c182dc2d0ef504fd8e8950017b3208647b6df99449fe77102164c916e864f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 25
+    },
+    {
+      "path": "time-evolution/013_nonmarkovian_monte_carlo.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/013_nonmarkovian_monte_carlo.ipynb",
+      "bytes": 2508284,
+      "sha256": "0c7d2efaf88c272f6764268b44c7b704be909a6bf7e38afe6806cb01a170cebb",
+      "content_type": "application/x-ipynb+json",
+      "cells": 55
+    },
+    {
+      "path": "time-evolution/015_smesolve-heterodyne.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/015_smesolve-heterodyne.ipynb",
+      "bytes": 922652,
+      "sha256": "8fc1a815e757178dee1eb8d9370999ee958daf526d305d4a24b0d5cfb0c95e95",
+      "content_type": "application/x-ipynb+json",
+      "cells": 30
+    },
+    {
+      "path": "time-evolution/016_smesolve-inefficient-detection.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/016_smesolve-inefficient-detection.ipynb",
+      "bytes": 453007,
+      "sha256": "0c536b935367e86a23a95b827d6c6e603789d1f59988e65da76f5e1f2376256f",
+      "content_type": "application/x-ipynb+json",
+      "cells": 31
+    },
+    {
+      "path": "time-evolution/017_smesolve-jc-photocurrent.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/017_smesolve-jc-photocurrent.ipynb",
+      "bytes": 258561,
+      "sha256": "57c2d1174540fee03911577270616b28b46b4c9fef3953c64f501372b136e59b",
+      "content_type": "application/x-ipynb+json",
+      "cells": 17
+    },
+    {
+      "path": "time-evolution/018_measures-trajectories-cats-kerr.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/018_measures-trajectories-cats-kerr.ipynb",
+      "bytes": 546412,
+      "sha256": "6ee75cb1be87f28df242f948d5df2404460b0482066375f8b01eb7f92045ef54",
+      "content_type": "application/x-ipynb+json",
+      "cells": 27
+    },
+    {
+      "path": "time-evolution/019_optomechanical-steadystate.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/019_optomechanical-steadystate.ipynb",
+      "bytes": 257505,
+      "sha256": "97dbe8e304a148440558198f93cf12623cbc6433c63bf075a1dc47f979fea633",
+      "content_type": "application/x-ipynb+json",
+      "cells": 37
+    },
+    {
+      "path": "time-evolution/020_homodyned-Jaynes-Cummings-emission.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/020_homodyned-Jaynes-Cummings-emission.ipynb",
+      "bytes": 588556,
+      "sha256": "4989ec3a385077c6de709cacb4812e9ebaf9cdd2703f95ef2a2b6f3224407ccf",
+      "content_type": "application/x-ipynb+json",
+      "cells": 35
+    },
+    {
+      "path": "time-evolution/021_quasi-steadystate-driven-system.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/021_quasi-steadystate-driven-system.ipynb",
+      "bytes": 88137,
+      "sha256": "33b9f4f7ea62a495df92c3625ae9af2e5f022a3d719295cd60ad9c4ae10ca507",
+      "content_type": "application/x-ipynb+json",
+      "cells": 20
+    },
+    {
+      "path": "time-evolution/022_v5_paper-smesolve.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/022_v5_paper-smesolve.ipynb",
+      "bytes": 89482,
+      "sha256": "8bb6fca4af8742d7984613fe4b0cd8770389d31e6e44ac780d045183dc03f348",
+      "content_type": "application/x-ipynb+json",
+      "cells": 17
+    },
+    {
+      "path": "time-evolution/023_dysolve_propagator.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/023_dysolve_propagator.ipynb",
+      "bytes": 11925,
+      "sha256": "9b61a97fd5ede252bf1ae67d6dbc3841ab2014ce68d39a7afb6cff9864c047b6",
+      "content_type": "application/x-ipynb+json",
+      "cells": 20
+    },
+    {
+      "path": "time-evolution/024_v5_paper-mesolve.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/024_v5_paper-mesolve.ipynb",
+      "bytes": 464224,
+      "sha256": "86d04d7c6431a518228938b94d4a74bc3012c827021cb6b6b4fab603a3b43693",
+      "content_type": "application/x-ipynb+json",
+      "cells": 69
+    },
+    {
+      "path": "time-evolution/025_v5_paper-floquet-speed-test.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/025_v5_paper-floquet-speed-test.ipynb",
+      "bytes": 339941,
+      "sha256": "24dbf73a770ffea6fbee06d62815dbe358361f3b6a4f262fdd97c780714369ad",
+      "content_type": "application/x-ipynb+json",
+      "cells": 21
+    },
+    {
+      "path": "time-evolution/026_v5_paper-nm_mcsolve.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/time-evolution/026_v5_paper-nm_mcsolve.ipynb",
+      "bytes": 145078,
+      "sha256": "c4728a97b909f2c6dd5b0d438a296e7a6b0ee3edc5f9d5da92371ea590613cb0",
+      "content_type": "application/x-ipynb+json",
+      "cells": 34
+    },
+    {
+      "path": "tomography/tomography-iMLE-photon-counting.ipynb",
+      "source_url": "https://raw.githubusercontent.com/qutip/qutip-notebooks/1286d50d476b20f41f7edeff4af1a1508f93f10d/examples/tomography-iMLE-photon-counting.ipynb",
+      "bytes": 527628,
+      "sha256": "02567703a8ea29f4f84a7a9485e5d06757310349279ad6568c2cde87902aaa51",
+      "content_type": "application/x-ipynb+json",
+      "cells": 28,
+      "source_repository": "qutip/qutip-notebooks",
+      "source_commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d"
+    },
+    {
+      "path": "visualization/JC-model-wigner-function.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/JC-model-wigner-function.ipynb",
+      "bytes": 166327,
+      "sha256": "6cdd87747a0190cc4e8565d6d2a05f06b6f3e611aaa7403ced73085852643159",
+      "content_type": "application/x-ipynb+json",
+      "cells": 12
+    },
+    {
+      "path": "visualization/animation-demo.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/animation-demo.ipynb",
+      "bytes": 1541569,
+      "sha256": "00eede859d16cb0da6e0c8c27f3a25942fcdb65d908d3e67f07c7f8eac5469f3",
+      "content_type": "application/x-ipynb+json",
+      "cells": 18
+    },
+    {
+      "path": "visualization/bloch-sphere-animation.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/bloch-sphere-animation.ipynb",
+      "bytes": 124275,
+      "sha256": "2ed85ff932b8dfbc017d1d5c33c53cf6dd94976423b4c1c232ffda58d1c797ae",
+      "content_type": "application/x-ipynb+json",
+      "cells": 12
+    },
+    {
+      "path": "visualization/bloch_sphere_with_colorbar.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/bloch_sphere_with_colorbar.ipynb",
+      "bytes": 566445,
+      "sha256": "a347d1aa604e77684d929cca6b15634d3dd450b5093e63c327d3f502ab839234",
+      "content_type": "application/x-ipynb+json",
+      "cells": 13
+    },
+    {
+      "path": "visualization/distributions.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/distributions.ipynb",
+      "bytes": 230816,
+      "sha256": "1a65cf011bf0bd6f90c2949eb122f3af90ab7ff15f90bcd141279faff5c7966a",
+      "content_type": "application/x-ipynb+json",
+      "cells": 8
+    },
+    {
+      "path": "visualization/energy-levels.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/energy-levels.ipynb",
+      "bytes": 47906,
+      "sha256": "129ea8476ca63fa85c0a6ec74d5ba41533775fd88cfe3ce7a8490ee2364206be",
+      "content_type": "application/x-ipynb+json",
+      "cells": 10
+    },
+    {
+      "path": "visualization/pseudo-probability-functions.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/pseudo-probability-functions.ipynb",
+      "bytes": 805327,
+      "sha256": "3655c16dfce0dbcaa12d92277b1448e0c5980cbff0c6e032cdba8c9f34079364",
+      "content_type": "application/x-ipynb+json",
+      "cells": 19
+    },
+    {
+      "path": "visualization/quantum-process-tomography.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/quantum-process-tomography.ipynb",
+      "bytes": 2648213,
+      "sha256": "f09c2ac97cf99368ab82fc09130d879017b340d2ce27146a751d542625c04003",
+      "content_type": "application/x-ipynb+json",
+      "cells": 15
+    },
+    {
+      "path": "visualization/qubism-and-schmidt-plots.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/qubism-and-schmidt-plots.ipynb",
+      "bytes": 463789,
+      "sha256": "4b26a64d52600e824924a82b30a5bae17173bf792ceecec7b3f6b2b6844d0f1a",
+      "content_type": "application/x-ipynb+json",
+      "cells": 49
+    },
+    {
+      "path": "visualization/visualization-exposition.ipynb",
+      "source_url": "https://qutip.org/qutip-tutorials/tutorials-v5/visualization/visualization-exposition.ipynb",
+      "bytes": 1200486,
+      "sha256": "acb1214cabee36199ee595955c8392db5d88f30a49bc8b080b0497437f903aee",
+      "content_type": "application/x-ipynb+json",
+      "cells": 41
+    }
+  ],
+  "additional_official_source": {
+    "repository": "https://github.com/qutip/qutip-notebooks",
+    "commit": "1286d50d476b20f41f7edeff4af1a1508f93f10d",
+    "reason": "Official tutorial website links these tomography and PIQS notebooks."
+  }
+}
